@@ -1,5 +1,7 @@
 ### Hello World 👋
 
+<img src="https://komarev.com/ghpvc/?username=jhonarendra" alt="jhonarendra" /> <img src="https://img.shields.io/github/followers/jhonarendra?label=follow&style=social" />
+
 Hi, I'm Umar. Full Stack Developer with 7+ years of work experience
 
 ### About me
@@ -27,8 +29,5 @@ Hi, I'm Umar. Full Stack Developer with 7+ years of work experience
 
 ---
 
-
-
-![github stats](https://github-readme-stats.vercel.app/api?username=jhonarendra&count_private=true&show_icons=true&theme=tokyonight)
 
 ![github contribution](https://raw.githubusercontent.com/jhonarendra/jhonarendra/7e05bf76db2b02657000f12f8893097f6766b36c/github-contribution-grid-snake-dark.svg)
