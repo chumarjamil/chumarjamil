@@ -1,7 +1,5 @@
 ### Hello World 👋
 
-<img src="https://komarev.com/ghpvc/?username=jhonarendra" alt="jhonarendra" /> <img src="https://img.shields.io/github/followers/jhonarendra?label=follow&style=social" />
-
 Hi, I'm Umar. Full Stack Developer with 7+ years of work experience
 
 ### About me
