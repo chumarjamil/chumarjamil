@@ -17,7 +17,6 @@ Hi, I'm Umar. Full Stack Developer with 7+ years of work experience
 <img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Vue" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" alt="Vue" width="80px" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*-uckV8DOh3l0bCvqZ73zYg.png" />
 <img align="left" alt="Vue" width="50px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_251be2af3ae607c45c14e816eaa1cf41/postgresql.png" />
 <br />
 <br />
