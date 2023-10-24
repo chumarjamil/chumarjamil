@@ -7,10 +7,10 @@ Hi, I'm Umar. Full Stack Developer with 7+ years of work experience
 
 
 ### About me
-  - 🔭 I’m currently working as Full Stack Developer
+  - 🔭 I’m currently working as a Full Stack Developer
   - ⚡ Eager to build applications that bring value to others
-  - 🌱 I’m currently learning about Java Spring Boot
-  - 💕 Using Laravel, Node.js, MySQL, React.js, VueJS every day
+  - 🌱 I’m currently working on new Tech stacks
+  - 💕 Using Laravel, Express.js, MySQL, PostgreSQL, React.js, VueJS every day
   - 📫 You can reach me at <a href="mailto:imumarj@gmail.com">imumarj@gmail.com</a>
 
 <img align="left" alt="Laravel" width="50px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
