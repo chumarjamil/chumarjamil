@@ -7,17 +7,15 @@ Hi, I'm Umar. Full Stack Developer with 7+ years of work experience
 
 
 ### About me
-  - 🔭 I’m currently working as a Full Stack Developer
+  - 🔭 I’m currently working as a Back End Developer
   - ⚡ Eager to build applications that bring value to others
   - 🌱 I’m currently working on new Tech stacks
-  - 💕 Using Laravel, Express.js, MySQL, PostgreSQL, React.js, VueJS every day
+  - 💕 Using Laravel, Express.js, MySQL, AWS
   - 📫 You can reach me at <a href="mailto:imumarj@gmail.com">imumarj@gmail.com</a>
 
 <img align="left" alt="Laravel" width="50px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
 <img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Vue" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" alt="Vue" width="50px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_251be2af3ae607c45c14e816eaa1cf41/postgresql.png" />
 <br />
 <br />
 
