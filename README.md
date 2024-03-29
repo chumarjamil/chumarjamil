@@ -7,12 +7,14 @@ Hi, I'm Umar. Back End Developer with 6+ years of work experience
 
 
 ### About me
-  - 🔭 I’m currently working as a Back End Developer
+  - 🔭 I’m currently working as a Senior Back End Developer
   - ⚡ Eager to build applications that bring value to others
   - 🌱 I’m currently working on new Tech stacks
-  - 💕 Using Laravel, Express.js, MySQL, AWS & JavaScript every day.
+  - 💕 Using PHP, Laravel, Express.js, MySQL, Oracle, AWS & JavaScript every day.
   - 📫 You can reach me at <a href="mailto:imumarj@gmail.com">imumarj@gmail.com</a>
 
+  
+<img align="left" alt="PHP" width="50px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/php/php.png" />
 <img align="left" alt="Laravel" width="50px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
 <img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
