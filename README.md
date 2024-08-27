@@ -9,7 +9,7 @@ Hi, I'm Umar. Full Stack Developer with 7+ years of work experience
 ### About me
   - 🔭 I’m currently working as a Full Stack Developer
   - ⚡ Eager to build applications that bring value to others
-  - 🌱 TALL Stack Developer | Laravel Enthusiast | Building Scalable Web Applications with Tailwind CSS, Alpine.js, Laravel, and Livewire
+  - 🌱 TALL Stack Developer
   - 💕 Using PHP, Laravel, MySQL, TALL Stack, AWS & JavaScript every day.
   - 📫 You can reach me at <a href="mailto:imumarj@gmail.com">imumarj@gmail.com</a>
 
