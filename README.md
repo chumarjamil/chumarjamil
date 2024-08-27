@@ -10,7 +10,7 @@ Hi, I'm Umar. Full Stack Developer with 7+ years of work experience
   - 🔭 I’m currently working as a Full Stack Developer
   - ⚡ Eager to build applications that bring value to others
   - 🌱 I’m currently working on new Tech stacks
-  - 💕 Using PHP, Laravel, Express.js, MySQL, Oracle, AWS & JavaScript every day.
+  - 💕 Using PHP, Laravel, MySQL, TALL Stack, AWS & JavaScript every day.
   - 📫 You can reach me at <a href="mailto:imumarj@gmail.com">imumarj@gmail.com</a>
 
   
