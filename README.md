@@ -2,8 +2,9 @@
 
 Hi, I'm Umar. Full Stack Developer with 7+ years of work experience
 
-[![Visit My Portfolio](https://img.shields.io/badge/Visit-My_Portfolio-blue?style=for-the-badge&logo=github)](https://umarjamil.com)
-
+<a href="https://umarjamil.com" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-My_Portfolio-blue?style=for-the-badge&logo=github" alt="Visit My Portfolio">
+</a>
 
 
 ### About me
