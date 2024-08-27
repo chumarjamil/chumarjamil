@@ -6,7 +6,6 @@ Hi, I'm Umar. Full Stack Developer with 7+ years of work experience
     <img src="https://img.shields.io/badge/Visit-My_Portfolio-blue?style=for-the-badge&logo=github" alt="Visit My Portfolio">
 </a>
 
-
 ### About me
   - 🔭 I’m currently working as a Full Stack Developer
   - ⚡ Eager to build applications that bring value to others
