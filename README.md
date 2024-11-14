@@ -18,7 +18,7 @@ Hi, I'm Umar. Full Stack Developer with 7+ years of work experience
 <img align="left" alt="Laravel" width="50px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
 <img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="JavaScript" width="50px" src="https://res.cloudinary.com/ujdeveloper/image/upload/v1731564911/extramedia/Logo-Golang_euoetk.png" />
+<img align="left" alt="JavaScript" width="50px" src="https://res.cloudinary.com/ujdeveloper/image/upload/v1731564990/extramedia/62217e885f52b860da9f00cc_Apa_Itu_Golang__Apa_Saja_Fungsi_Dan_Keunggulannya_-_Binar_Academy_wbvs9k.jpg" />
 <br />
 <br />
 
