@@ -1,16 +1,16 @@
 ### Hello World 👋
 
-Hi, I'm Umar. Full Stack Developer with 7+ years of work experience
+Hi, I'm Umar. Backend Developer with 8+ years of work experience
 
 <a href="https://umarjamil.com" target="_blank">
     <img src="https://img.shields.io/badge/Visit-My_Portfolio-blue?style=for-the-badge&logo=github" alt="Visit My Portfolio">
 </a>
 
 ### About me
-  - 🔭 I’m currently working as a Full Stack Developer
+  - 🔭 I’m currently working as a Senior Backend Devloper
   - ⚡ Eager to build applications that bring value to others
-  - 🌱 TALL Stack Developer
-  - 💕 Using PHP, Laravel, MySQL, TALL Stack, AWS & JavaScript every day.
+  - 🌱 Golang, Laravel
+  - 💕 Using PHP, Laravel, MySQL, Golang, AWS & JavaScript every day.
   - 📫 You can reach me at <a href="mailto:imumarj@gmail.com">imumarj@gmail.com</a>
 
   
