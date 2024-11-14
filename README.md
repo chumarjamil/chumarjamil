@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-Hi, I'm Umar. Backend Developer with 8+ years of work experience
+Hi, I'm Umar. Backend Developer with 7+ years of work experience
 
 <a href="https://umarjamil.com" target="_blank">
     <img src="https://img.shields.io/badge/Visit-My_Portfolio-blue?style=for-the-badge&logo=github" alt="Visit My Portfolio">
