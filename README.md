@@ -9,8 +9,8 @@ Hi, I'm Umar. Backend Developer with 7+ years of work experience
 ### About me
   - 🔭 I’m currently working as a Senior Backend Devloper
   - ⚡ Eager to build applications that bring value to others
-  - 🌱 Golang, Laravel
-  - 💕 Using PHP, Laravel, MySQL, Golang, AWS & JavaScript every day.
+  - 🌱 Laravel, NestJS, Express.js
+  - 💕 Using PHP, Laravel, MySQL, NestJS, AWS & JavaScript every day.
   - 📫 You can reach me at <a href="mailto:imumarj@gmail.com">imumarj@gmail.com</a>
 
   
@@ -18,7 +18,7 @@ Hi, I'm Umar. Backend Developer with 7+ years of work experience
 <img align="left" alt="Laravel" width="50px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
 <img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="JavaScript" width="60px" src="https://res.cloudinary.com/ujdeveloper/image/upload/v1731565132/extramedia/Logo-Golang_aoslaw.png" />
+<img align="left" alt="NestJS" width="60px" src="https://res.cloudinary.com/ujdeveloper/image/upload/v1733510383/extramedia/X7RPRZJiL_bDk-b5yfaeCqEaINp3iwm7ngVhzN9LDg4hNjz0Bs3QTo7pgbCfGW3xp_sQZxMGUfnxBAXGNFwGKw_anvw5h.svg" />
 <br />
 <br />
 
