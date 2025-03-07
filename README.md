@@ -14,7 +14,7 @@ Hi, I'm Umar. Full Stack Developer with 7+ years of work experience
   - 📫 You can reach me at <a href="mailto:imumarj@gmail.com">imumarj@gmail.com</a>
 
   
-<img align="left" alt="PHP" width="50px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/php/php.png" />
+<img align="left" alt="PHP" width="50px" src="https://res.cloudinary.com/ujdeveloper/image/upload/v1741294890/extramedia/download_kwrvii.png" />
 <img align="left" alt="Laravel" width="50px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
 <img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
