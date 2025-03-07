@@ -1,16 +1,16 @@
 ### Hello World 👋
 
-Hi, I'm Umar. Backend Developer with 7+ years of work experience
+Hi, I'm Umar. Full Stack Developer with 7+ years of work experience
 
 <a href="https://umarjamil.com" target="_blank">
     <img src="https://img.shields.io/badge/Visit-My_Portfolio-blue?style=for-the-badge&logo=github" alt="Visit My Portfolio">
 </a>
 
 ### About me
-  - 🔭 I’m currently working as a Senior Backend Devloper
-  - ⚡ Eager to build applications that bring value to others
-  - 🌱 Laravel, NestJS, Express.js
-  - 💕 Using PHP, Laravel, MySQL, NestJS, AWS & JavaScript every day.
+  - 🔭  I’m currently working as a Senior Full Stack Developer
+  - ⚡ Passionate about building scalable and user-centric applications
+  - 🌱 Specializing in MERN Stack, Next.js, and Full Stack Development
+  - 💕 Working with React.js, Node.js, Express.js, MongoDB, AWS, and Docker daily
   - 📫 You can reach me at <a href="mailto:imumarj@gmail.com">imumarj@gmail.com</a>
 
   
