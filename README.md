@@ -16,9 +16,9 @@ Hi, I'm Umar. Backend Developer & Cloud Engineer with 7+ years of work experienc
   
 <img align="left" alt="Laravel" width="50px" src="https://res.cloudinary.com/ujdeveloper/image/upload/v1742523296/extramedia/laravel-icon-1990x2048-xawylrh0_h4d2st.png" />
 <img align="left" alt="Nodejs" width="50px" src="https://res.cloudinary.com/ujdeveloper/image/upload/v1741294793/extramedia/1174925_dodqpg.webp" />
-<img align="left" alt="AWS" width="60px" src="https://res.cloudinary.com/ujdeveloper/image/upload/v1742523450/extramedia/aws-icon-2048x1224-tyr5ef11_systvb.png" />
+<img align="left" alt="AWS" width="50px" src="https://res.cloudinary.com/ujdeveloper/image/upload/v1742523450/extramedia/aws-icon-2048x1224-tyr5ef11_systvb.png" />
 <img align="left" alt="Github" width="50px" src="https://res.cloudinary.com/ujdeveloper/image/upload/v1742523511/extramedia/25231_fy4a6q.png" />
-<img align="left" alt="Docker" width="50px" src="https://res.cloudinary.com/ujdeveloper/image/upload/v1742523563/extramedia/97_Docker_logo_logos-512_so09ff.webp" />
+<img align="left" alt="Docker" width="50px" src="https://res.cloudinary.com/ujdeveloper/image/upload/v1742523615/extramedia/png-clipart-docker-logo-kubernetes-microservices-cloud-computing-dockers-logo-text-logo-thumbnail_re7v9b.png" />
 <br />
 <br />
 
