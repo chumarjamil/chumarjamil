@@ -1,16 +1,16 @@
 ### Hello World 👋
 
-Hi, I'm Umar. Backend Developer & Cloud Engineer with 7+ years of work experience
+Hi, I'm Umar. Full Stack Developer with 7+ years of experience
 
 <a href="https://umarjamil.com" target="_blank">
     <img src="https://img.shields.io/badge/Visit-My_Portfolio-blue?style=for-the-badge&logo=github" alt="Visit My Portfolio">
 </a>
 
 ### About me
-  - 🔭  I’m currently working as a Backend Developer & Cloud Engineer
-  - ⚡ Passionate about building scalable and user-centric applications
-  - 🌱 Specializing in Rest API's, Microservices and Cloud Infrastucture.
-  - 💕 Working with Laravel, Node.js, CI/CD, Python and Docker.
+  - 🔭  Currently working as a Full Stack Developer
+  - ⚡ Passionate about building scalable, high-performance web applications
+  - 🌱 Specializing in full-stack development, APIs, and modern web technologies
+  - 💕 Working with Laravel, Node.js, Vue, CI/CD, Docker, and PostgreSQL
   - 📫 You can reach me at <a href="mailto:imumarj@gmail.com">imumarj@gmail.com</a>
 
   
