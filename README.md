@@ -22,14 +22,6 @@ Hi, I'm Umar. Full Stack Developer with 7+ years of experience
 <br />
 <br />
 
-
-### ✉ Let's connect!
-
-<a href="https://www.linkedin.com/in/chumarjamil/" target="_blank"><img align="left" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="22" /></a>
-
-
-<br />
-
 ---
 
 
