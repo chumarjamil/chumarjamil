@@ -12,14 +12,13 @@ Hi, I'm Umar. Full Stack Developer with 7+ years of experience
   - 🌱 Specializing in full-stack development, APIs, and modern web technologies
   - 💕 Working with Laravel, Node.js, Vue, CI/CD, Docker, and PostgreSQL
   - 📫 You can reach me at <a href="mailto:imumarj@gmail.com">imumarj@gmail.com</a>
-
   
 <img align="left" alt="Laravel" width="50px" src="https://res.cloudinary.com/ujdeveloper/image/upload/v1742523296/extramedia/laravel-icon-1990x2048-xawylrh0_h4d2st.png" />
 <img align="left" alt="Nodejs" width="50px" src="https://res.cloudinary.com/ujdeveloper/image/upload/v1741294793/extramedia/1174925_dodqpg.webp" />
 <img align="left" alt="postgreSQL" width="50px" src="https://res.cloudinary.com/ujdeveloper/image/upload/v1742918354/postgresql-icon-1987x2048-v2fkmdaw_qa2582.png" />
 <img align="left" alt="AWS" width="50px" src="https://res.cloudinary.com/ujdeveloper/image/upload/v1742523450/extramedia/aws-icon-2048x1224-tyr5ef11_systvb.png" />
 <img align="left" alt="Github" width="50px" src="https://res.cloudinary.com/ujdeveloper/image/upload/v1742523511/extramedia/25231_fy4a6q.png" />
-<img align="left" alt="python" width="50px" src="https://res.cloudinary.com/ujdeveloper/image/upload/v1742918274/png-transparent-python-logo-thumbnail_p5ikf8.png" />
+<img align="left" alt="python" width="50px" src="https://res.cloudinary.com/ujdeveloper/image/upload/v1743715927/vuejs-original-icon-256x220-nyrcy71f_bbgiip.png" />
 <br />
 <br />
 
