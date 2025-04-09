@@ -1,18 +1,25 @@
 ### Hello World 👋
 
-Hi, I'm Umar. Backend & Cloud Engineer with 7+ years of experience
+I'm Umar Jamil — Full Stack Developer (Node.js · React.js · PostgreSQL · DevOps)
 
 <a href="https://umarjamil.com" target="_blank">
     <img src="https://img.shields.io/badge/Visit-My_Portfolio-blue?style=for-the-badge&logo=github" alt="Visit My Portfolio">
 </a>
 
 ### About me
-  - 🎯 Currently focusing on Backend Development and Cloud Engineering
-  - ⚡ Passionate about building scalable, resilient backend systems and cloud-native architectures
-  - 🛠️ Specializing in backend development, cloud computing (AWS), and DevOps practices
-  - 💻 Proficient in Laravel, Node.js, AWS (EKS, Lambda, etc.), Terraform, Kubernetes, Docker, and CI/CD
-  - 📫 You can reach me at <a href="mailto:imumarj@gmail.com">sayHello@umarjamil.com</a>
-  
+  - 🎯 Currently focused on **Full Stack Development** using the **MERN Stack**
+  - ⚡ Passionate about building scalable APIs, microservices, and production-ready apps
+  - 🛠️ Experienced with **Node.js**, **React.js**, **PostgreSQL**, **MongoDB**, **Docker**, and **CI/CD**
+  - 🚀 DevOps-savvy with **GitHub Actions**, **NGINX**, and infrastructure automation tools
+  - 🌍 Based in **Jakarta, Indonesia** — contributing to Southeast Asia’s growing tech ecosystem
+
+### 📫 Get in Touch
+
+- 📧 Email: sayHello@umarjamil.com  
+- 🌐 Website: [umarjamil.com](https://umarjamil.com)  
+- 💼 LinkedIn: [chumarjamil](https://linkedin.com/in/chumarjamil)
+
+---
 <img align="left" alt="Laravel" width="50px" src="https://res.cloudinary.com/ujdeveloper/image/upload/v1742523296/extramedia/laravel-icon-1990x2048-xawylrh0_h4d2st.png" />
 <img align="left" alt="Nodejs" width="50px" src="https://res.cloudinary.com/ujdeveloper/image/upload/v1741294793/extramedia/1174925_dodqpg.webp" />
 <img align="left" alt="postgreSQL" width="50px" src="https://res.cloudinary.com/ujdeveloper/image/upload/v1742918354/postgresql-icon-1987x2048-v2fkmdaw_qa2582.png" />
