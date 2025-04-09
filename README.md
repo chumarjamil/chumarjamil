@@ -16,8 +16,8 @@ I'm Umar Jamil — Full Stack Developer (Node.js · React.js · PostgreSQL · De
 ### 📫 Get in Touch
 
 - 📧 Email: sayHello@umarjamil.com  
-- 🌐 Website: [umarjamil.com](https://umarjamil.com)  
-- 💼 LinkedIn: [chumarjamil](https://linkedin.com/in/chumarjamil)
+- 🌐 Website: <a href="https://umarjamil.com" target="_blank">umarjamil.com</a>  
+- 💼 LinkedIn: <a href="https://linkedin.com/in/chumarjamil" target="_blank">chumarjamil</a>
 
 ---
 <img align="left" alt="Laravel" width="50px" src="https://res.cloudinary.com/ujdeveloper/image/upload/v1742523296/extramedia/laravel-icon-1990x2048-xawylrh0_h4d2st.png" />
