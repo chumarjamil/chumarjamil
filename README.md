@@ -1,17 +1,19 @@
-### Hello World 👋
+# 👋 Hello, I'm Umar Jamil
 
-I'm Umar Jamil — Full Stack Developer (Node.js · React.js · PostgreSQL · DevOps)
+🚀 **Full Stack Developer** | JavaScript · Node.js · React.js · PostgreSQL · DevOps  
+🌍 Based in **Jakarta, Indonesia**, building production-ready apps for Southeast Asia and beyond.
 
 <a href="https://umarjamil.com" target="_blank">
     <img src="https://img.shields.io/badge/Visit-My_Portfolio-blue?style=for-the-badge&logo=github" alt="Visit My Portfolio">
 </a>
 
-### About me
-  - 🎯 Currently focused on **Full Stack Development** using the **MERN Stack**
-  - ⚡ Passionate about building scalable APIs, microservices, and production-ready apps
-  - 🛠️ Experienced with **Node.js**, **React.js**, **PostgreSQL**, **MongoDB**, **Docker**, and **CI/CD**
-  - 🚀 DevOps-savvy with **GitHub Actions**, **NGINX**, and infrastructure automation tools
-  - 🌍 Based in **Jakarta, Indonesia** — contributing to Southeast Asia’s growing tech ecosystem
+### 👨‍💻 About Me
+
+- 🎯 Currently focused on **Full Stack Development** using the **MERN Stack**
+- ⚡ Passionate about building **scalable APIs**, **microservices**, and clean **frontend interfaces**
+- 🛠️ Experienced with **Node.js**, **React.js**, **PostgreSQL**, **MongoDB**, **Docker**, and **CI/CD**
+- 🚀 DevOps-savvy with **GitHub Actions**, **NGINX**, and automation pipelines
+- 🤝 Open to **remote work**, **collaborations**, or building something great together!
 
 ### 📫 Get in Touch
 
