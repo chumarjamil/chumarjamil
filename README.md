@@ -11,7 +11,7 @@
 
 - 🎯 Currently focused on **Full Stack Development** using the **MERN Stack**
 - ⚡ Passionate about building **scalable APIs**, **microservices**, and clean **frontend interfaces**
-- 🛠️ Experienced with **Laravel**, **Node.js**, **React.js**, **PostgreSQL**, **MongoDB**, **Docker**, and **CI/CD**
+- 🛠️ Experienced with **TypeScript**, **Laravel**, **Node.js**, **React.js**, **PostgreSQL**, **MongoDB**, **Docker**, and **CI/CD**
 - 🚀 DevOps-savvy with **GitHub Actions**, **NGINX**, and automation pipelines
 - 🤝 Open to **remote work**, **collaborations**, or building something great together!
 
