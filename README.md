@@ -21,7 +21,7 @@
 - 🌐 Website: <a href="https://umarjamil.com" target="_blank">umarjamil.com</a>  
 - 💼 LinkedIn: <a href="https://linkedin.com/in/chumarjamil" target="_blank">chumarjamil</a>
 
-
+<img align="left" alt="Laravel" width="50px" src="https://res.cloudinary.com/ujdeveloper/image/upload/v1747287498/typescript-icon-icon-2048x2048-2rhh1z66_vfgiha.webp" />
 <img align="left" alt="Laravel" width="50px" src="https://res.cloudinary.com/ujdeveloper/image/upload/v1742523296/extramedia/laravel-icon-1990x2048-xawylrh0_h4d2st.png" />
 <img align="left" alt="Nodejs" width="50px" src="https://res.cloudinary.com/ujdeveloper/image/upload/v1741294793/extramedia/1174925_dodqpg.webp" />
 <img align="left" alt="React.js" width="50px" src="https://res.cloudinary.com/ujdeveloper/image/upload/v1741294441/extramedia/React-icon.svg_ciktza.png" />
