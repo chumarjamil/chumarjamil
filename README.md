@@ -19,9 +19,9 @@
 
 **[hallucination-guard](https://github.com/chumarjamil/hallucination-guard)** — Drop-in hallucination detection & guardrails for production LLM pipelines. Python, open source.
 
-**[ai-agent-marketplace](https://github.com/chumarjamil/ai-agent-marketplace)** — Agent listing, filtering, and management UI. TypeScript.
+**[rag-pipeline-starter](https://github.com/chumarjamil/rag-pipeline-starter)** — Production-ready RAG with pgvector, streaming SSE, and TypeScript.
 
-**[cloudforge](https://github.com/chumarjamil/cloudforge)** — Terraform-managed AWS infrastructure deployment. HCL.
+**[mcp-postgres-server](https://github.com/chumarjamil/mcp-postgres-server)** — MCP server that lets AI assistants query and inspect PostgreSQL databases.
 
 ---
 
@@ -35,13 +35,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-
----
-
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chumarjamil&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chumarjamil&layout=compact&theme=default&hide_border=true)
 
 ---
 
